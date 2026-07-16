@@ -1,7 +1,7 @@
 #requirements.txt
+#definition_version: 2
 snowflake-snowpark-python
 streamlit
-definition_version: 2
 entities:
   streamlit_app:
     type: streamlit
